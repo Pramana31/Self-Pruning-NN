@@ -1,5 +1,5 @@
 # Self-Pruning Neural Network on CIFAR-10
-### Tredence Analytics — AI Engineering Internship 2025 | Case Study Submission
+### Tredence Analytics — AI Engineering Internship 2026
 
 ---
 
