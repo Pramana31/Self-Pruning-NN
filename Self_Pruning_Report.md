@@ -1,5 +1,5 @@
 # Self-Pruning Neural Network on CIFAR-10  
-### Tredence Analytics — AI Engineering Internship 2025 | Case Study Submission  
+### Tredence Analytics — AI Engineering Internship 2026
 
 ---
 
@@ -138,7 +138,7 @@ CIFAR-10
 - PyTorch  
 - NumPy  
 - Matplotlib  
-- Google Colab  
+- Jupyter Notebook 
 
 ---
 
@@ -147,9 +147,3 @@ CIFAR-10
 This project demonstrates a practical approach to integrating pruning directly into the training process. By learning gate parameters alongside weights, the model achieves high sparsity while maintaining performance.
 
 The approach provides a scalable and efficient alternative to traditional pruning pipelines, making it suitable for real-world deployment scenarios.
-
----
-
-## Repository
-
-Add your GitHub repository link here  
