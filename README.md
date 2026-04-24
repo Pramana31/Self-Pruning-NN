@@ -346,14 +346,14 @@ A plain MLP on CIFAR-10 has a hard accuracy ceiling of **62–65%** regardless o
 
 This limitation is expected and does not affect the evaluation of this submission. The case study evaluates:
 
-1. ✅ Correctness of the `PrunableLinear` gated weight mechanism
-2. ✅ Correct implementation of the custom sparsity loss in the training loop
-3. ✅ Evidence that the network successfully prunes itself (sparsity levels + bimodal gate distribution)
-4. ✅ Clear analysis of the λ trade-off across three values
-5. ✅ Code quality, readability, and documentation
+1. Correctness of the `PrunableLinear` gated weight mechanism
+2. Correct implementation of the custom sparsity loss in the training loop
+3. Evidence that the network successfully prunes itself (sparsity levels + bimodal gate distribution)
+4. Clear analysis of the λ trade-off across three values
+5. Code quality, readability, and documentation
 
 ---
 
 ## Author
 
-Submitted as part of the **Tredence Analytics — AI Agents Engineering Internship 2025 Cohort** application.
+Submitted as part of the **Tredence Analytics — AI Agents Engineering Internship 2026** application.
