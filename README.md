@@ -35,8 +35,8 @@ Deploying large neural networks is constrained by memory and compute budgets. Tr
 ```
 self-pruning-neural-network/
 │
-├── Self_Pruning_NN_CIFAR_10.ipynb   # Main Colab notebook (8 cells)
-├── gate_distribution.png            # Gate value histogram — best model
+├── Self_Pruning.ipynb                 # Main Jupyter notebook
+├── gate_distribution_graph.png        # Gate value histogram — best model
 ├── report.md                        # Short report per case study spec
 └── README.md                        # This file
 ```
@@ -312,14 +312,6 @@ numpy
 matplotlib
 ```
 
-All packages are pre-installed in Google Colab. No `pip install` needed.
-
-### Running in Google Colab
-
-1. Open [colab.research.google.com](https://colab.research.google.com)
-2. `Runtime → Change runtime type → T4 GPU`
-3. Upload `Self_Pruning_NN_CIFAR_10.ipynb`
-4. `Runtime → Run all`
 
 ### Critical: DataLoader Setting
 
